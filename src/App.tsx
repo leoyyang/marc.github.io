@@ -18,7 +18,7 @@ import './styles/globals.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/marc.github.io">
       <div className="min-h-screen bg-white flex flex-col">
         <Navbar />
         

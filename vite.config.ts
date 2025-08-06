@@ -4,7 +4,7 @@ import { resolve } from 'path'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/marc.github.io/',
+  base: '/marc.github.io/', // 适配自定义域名的子路径
   resolve: {
     alias: {
       '@': resolve(__dirname, './src'),
