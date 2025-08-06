@@ -125,11 +125,11 @@ export const HRDashboard: React.FC = () => {
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="text-center space-y-3">
-              <div className="text-3xl font-bold text-dsp-red">1000万+</div>
+              <div className="text-3xl font-bold text-dsp-red">7亿+</div>
               <div className="text-dsp-gray">真实招聘职位数据</div>
             </div>
             <div className="text-center space-y-3">
-              <div className="text-3xl font-bold text-dsp-red">500+</div>
+              <div className="text-3xl font-bold text-dsp-red">7000+</div>
               <div className="text-dsp-gray">覆盖职业类别</div>
             </div>
             <div className="text-center space-y-3">
