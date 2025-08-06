@@ -18,16 +18,6 @@ import {
 export const HomePage: React.FC = () => {
   return (
     <div className="bg-white min-h-screen">
-      {/* Debug: 简单测试内容 */}
-      <div className="p-8 text-center">
-        <h1 className="text-4xl font-bold text-gray-900 mb-4">
-          MARC 测试页面
-        </h1>
-        <p className="text-gray-600 mb-8">
-          如果您能看到这个消息，说明React正在正常工作
-        </p>
-      </div>
-      
       {/* Hero Section */}
       <section className="py-16 md:py-24">
         <div className="container max-w-6xl">
