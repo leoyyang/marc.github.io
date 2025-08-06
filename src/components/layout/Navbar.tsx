@@ -17,7 +17,7 @@ export const Navbar: React.FC = () => {
           {/* DSP Logo */}
           <Link to="/" className="flex items-center space-x-3 group">
             <img 
-              src="/dsp-logo.png" 
+              src="/marc.github.io/dsp-logo.png" 
               alt="Digital Science Platform" 
               className="h-8 w-auto"
             />

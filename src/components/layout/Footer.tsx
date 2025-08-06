@@ -11,7 +11,7 @@ export const Footer: React.FC = () => {
         <div className="text-center space-y-4">
           <div className="flex justify-center">
             <img 
-              src="/dsp-logo.png" 
+              src="/marc.github.io/dsp-logo.png" 
               alt="Digital Science Platform" 
               className="h-6 w-auto opacity-60"
             />
